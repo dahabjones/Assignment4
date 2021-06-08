@@ -1,0 +1,55 @@
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #339900;
+}
+
+
+body {
+    background-color: #c2d6d6;
+    font-family: sans-serif;
+    background-size: cover;
+    text-align: center;
+
+
+}
+
+h1 {
+    color: #339900;
+    font: 40px;
+}
+
+h2 {
+    color: #339900;
+    font: 30px;
+    }
+
+h3 {
+    color: #339900;
+    font: 20px;
+}
+
+
+:only-child {
+    text-align: center;
+    
+
+}
+    
+
+
+.footer {
+    position: fixed;
+    background-color: #339900;
+    color: white; 
+    text-align: center;
+    padding: 10px 20px;
+    height: 100;
+    left: 0;
+    bottom: 0;
+    right: 0;
+     
+}
+
